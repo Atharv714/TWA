@@ -1,0 +1,19 @@
+nav 
+{
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  width: 100%;
+  position: fixed;
+  font-family: 'Quicksand';
+  font-weight: 900;
+}
+
+nav a:hover
+{
+  color: cyan;
+  text-decoration: underline;
+}
+
+ion-icon {
+  font-size: 64px;
+}
